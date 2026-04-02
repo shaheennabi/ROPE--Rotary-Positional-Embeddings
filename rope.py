@@ -167,3 +167,6 @@ def apply_rope(x, sin, cos, offset=0):
 
     # --- Ensure dtype consistency (important for mixed precision) ---
     return x_rotated.to(dtype=x.dtype)
+
+
+## this code is refined by chat, 
