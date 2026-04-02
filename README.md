@@ -74,7 +74,7 @@ pip install torch  # Only dependency
 
 Or clone and use locally:
 ```bash
-git clone https://github.com/yourusername/rope-rotary-positional-embeddings.git
+git clone https://github.com/shaheennabi/ROPE--Rotary-Positional-Embeddings
 cd rope-rotary-positional-embeddings
 pip install -r requirements.txt
 ```
